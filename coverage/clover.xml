@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1579482428392" clover="3.2.0">
+  <project timestamp="1579482428392" name="All files">
+    <metrics statements="115" coveredstatements="115" conditionals="17" coveredconditionals="17" methods="42" coveredmethods="42" elements="174" coveredelements="174" complexity="0" loc="115" ncloc="115" packages="5" files="10" classes="10"/>
+    <package name="business_rules.use_cases.cheaper-hotel">
+      <metrics statements="47" coveredstatements="47" conditionals="17" coveredconditionals="17" methods="14" coveredmethods="14"/>
+      <file name="cheaper-hotel.js" path="/Users/lucasmunizdutra/projetos/cheaper-hotel/src/business_rules/use_cases/cheaper-hotel/cheaper-hotel.js">
+        <metrics statements="47" coveredstatements="47" conditionals="17" coveredconditionals="17" methods="14" coveredmethods="14"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="18" count="15" type="stmt"/>
+        <line num="19" count="13" type="stmt"/>
+        <line num="20" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="33" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="40" count="7" type="stmt"/>
+        <line num="41" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="44" count="15" type="stmt"/>
+        <line num="46" count="7" type="stmt"/>
+        <line num="50" count="6" type="stmt"/>
+        <line num="52" count="64" type="stmt"/>
+        <line num="53" count="64" type="stmt"/>
+        <line num="58" count="34" type="stmt"/>
+        <line num="62" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="65" count="5" type="stmt"/>
+        <line num="66" count="5" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="73" count="8" type="stmt"/>
+        <line num="75" count="6" type="stmt"/>
+        <line num="79" count="3" type="stmt"/>
+        <line num="80" count="3" type="stmt"/>
+        <line num="81" count="3" type="stmt"/>
+        <line num="82" count="3" type="stmt"/>
+        <line num="83" count="3" type="stmt"/>
+        <line num="89" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="92" count="1" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="97" count="2" type="stmt"/>
+        <line num="98" count="2" type="stmt"/>
+        <line num="102" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="enterprise_business_rules.enum">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="client-types.enum.js" path="/Users/lucasmunizdutra/projetos/cheaper-hotel/src/enterprise_business_rules/enum/client-types.enum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="days.enum.js" path="/Users/lucasmunizdutra/projetos/cheaper-hotel/src/enterprise_business_rules/enum/days.enum.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="period-types.enum.js" path="/Users/lucasmunizdutra/projetos/cheaper-hotel/src/enterprise_business_rules/enum/period-types.enum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="enterprise_business_rules.model">
+      <metrics statements="40" coveredstatements="40" conditionals="0" coveredconditionals="0" methods="28" coveredmethods="28"/>
+      <file name="client.model.js" path="/Users/lucasmunizdutra/projetos/cheaper-hotel/src/enterprise_business_rules/model/client.model.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="64" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="hotel.model.js" path="/Users/lucasmunizdutra/projetos/cheaper-hotel/src/enterprise_business_rules/model/hotel.model.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="25" count="12" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+      <file name="period.model.js" path="/Users/lucasmunizdutra/projetos/cheaper-hotel/src/enterprise_business_rules/model/period.model.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="34" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="plan.model.js" path="/Users/lucasmunizdutra/projetos/cheaper-hotel/src/enterprise_business_rules/model/plan.model.js">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11"/>
+        <line num="3" count="39" type="stmt"/>
+        <line num="4" count="39" type="stmt"/>
+        <line num="5" count="39" type="stmt"/>
+        <line num="6" count="39" type="stmt"/>
+        <line num="7" count="39" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="39" type="stmt"/>
+        <line num="19" count="15" type="stmt"/>
+        <line num="23" count="39" type="stmt"/>
+        <line num="27" count="64" type="stmt"/>
+        <line num="31" count="39" type="stmt"/>
+        <line num="35" count="64" type="stmt"/>
+        <line num="39" count="39" type="stmt"/>
+        <line num="43" count="94" type="stmt"/>
+        <line num="47" count="39" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="frameworks_drivers.database">
+      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="db.js" path="/Users/lucasmunizdutra/projetos/cheaper-hotel/src/frameworks_drivers/database/db.js">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="133" count="1" type="stmt"/>
+        <line num="164" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="regex.js" path="/Users/lucasmunizdutra/projetos/cheaper-hotel/src/utils/regex.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
